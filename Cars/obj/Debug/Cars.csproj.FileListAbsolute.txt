@@ -1,0 +1,8 @@
+C:\Users\prdb\Documents\Shubenok\Cars\bin\Debug\Cars.exe.config
+C:\Users\prdb\Documents\Shubenok\Cars\bin\Debug\Cars.exe
+C:\Users\prdb\Documents\Shubenok\Cars\bin\Debug\Cars.pdb
+C:\Users\prdb\Documents\Shubenok\Cars\obj\Debug\Cars.csproj.AssemblyReference.cache
+C:\Users\prdb\Documents\Shubenok\Cars\obj\Debug\Cars.csproj.SuggestedBindingRedirects.cache
+C:\Users\prdb\Documents\Shubenok\Cars\obj\Debug\Cars.csproj.CoreCompileInputs.cache
+C:\Users\prdb\Documents\Shubenok\Cars\obj\Debug\Cars.exe
+C:\Users\prdb\Documents\Shubenok\Cars\obj\Debug\Cars.pdb
